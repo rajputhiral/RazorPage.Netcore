@@ -1,0 +1,35 @@
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\appsettings.Development.json
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\appsettings.json
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.staticwebassets.runtime.json
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.exe
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.deps.json
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.runtimeconfig.json
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.dll
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Razor.Net Core.pdb
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.AssemblyInfoInputs.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.AssemblyInfo.cs
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.csproj.CoreCompileInputs.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.MvcApplicationPartsAssemblyInfo.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.RazorAssemblyInfo.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.RazorAssemblyInfo.cs
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets\msbuild.Razor.Net Core.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets\msbuild.build.Razor.Net Core.props
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Razor.Net Core.props
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Razor.Net Core.props
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets.pack.json
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets.build.json
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\staticwebassets.development.json
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\scopedcss\bundle\Razor.Net Core.styles.css
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\scopedcss\projectbundle\Razor.Net Core.bundle.scp.css
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.dll
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\refint\Razor.Net Core.dll
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.pdb
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.genruntimeconfig.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\ref\Razor.Net Core.dll
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vs\Razor.Net Core\Razor.Net Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.csproj.AssemblyReference.cache
+D:\vs\Razor.Net Core\Razor.Net Core\obj\Debug\net7.0\Razor.Net Core.csproj.CopyComplete
